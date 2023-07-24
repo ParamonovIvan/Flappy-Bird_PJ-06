@@ -56,7 +56,8 @@
 ![FB1](https://github.com/ParamonovIvan/Flappy-Bird_PJ-06/assets/131868856/a6bf9459-0068-46f0-a7e8-d786427b7e0e)
 
 
-![FB2](https://github.com/ParamonovIvan/Flappy-Bird_PJ-06/assets/131868856/4a38ee77-0389-4921-b966-045ea72060ae)
+![FB2](https://github.com/ParamonovIvan/Flappy-Bird_PJ-06/assets/131868856/50a0d2e0-04dc-48d5-ab57-98535bbd8d73)
+
 
 
 ![FB3](https://github.com/ParamonovIvan/Flappy-Bird_PJ-06/assets/131868856/59cb949e-5c3a-4a79-813d-f1334f44087e)

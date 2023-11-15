@@ -1,4 +1,4 @@
-# Проект «Мини-игра Flappy Bird на JS + Canvas API» ![bird](https://github.com/ParamonovIvan/Flappy-Bird_PJ-06/assets/131868856/07ae16f4-8822-440c-b2a0-4305193a053e)
+# Проект «Мини-игра Flappy Bird на JS + Canvas API»
 
 При разработке игры отработаются следующие навыки:
 

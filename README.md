@@ -85,7 +85,7 @@
 
 #### Ссылка на страницу с игрой:
 
-+ https://paramonovivan.github.io/Flappy-Bird_PJ-06/
++ https://paramonovivan.github.io/PJ-06_Flappy-Bird/
 
 #### Внешний вид страницы с игрой:
 
